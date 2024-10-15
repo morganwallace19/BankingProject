@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F494210-2063-4FDE-AE0C-7E330238EB73}|BankingApplication\\BankingApplication.csproj|c:\\users\\walla\\onedrive\\desktop\\practice code\\bankingapplication\\bankingapplication\\models\\bankleadentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F494210-2063-4FDE-AE0C-7E330238EB73}|BankingApplication\\BankingApplication.csproj|solutionrelative:bankingapplication\\models\\bankleadentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F494210-2063-4FDE-AE0C-7E330238EB73}|BankingApplication\\BankingApplication.csproj|c:\\users\\walla\\onedrive\\desktop\\practice code\\bankingapplication\\bankingapplication\\bankingapplication.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1F494210-2063-4FDE-AE0C-7E330238EB73}|BankingApplication\\BankingApplication.csproj|solutionrelative:bankingapplication\\bankingapplication.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F494210-2063-4FDE-AE0C-7E330238EB73}|BankingApplication\\BankingApplication.csproj|c:\\users\\walla\\onedrive\\desktop\\practice code\\bankingapplication\\bankingapplication\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F494210-2063-4FDE-AE0C-7E330238EB73}|BankingApplication\\BankingApplication.csproj|solutionrelative:bankingapplication\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F494210-2063-4FDE-AE0C-7E330238EB73}|BankingApplication\\BankingApplication.csproj|c:\\users\\walla\\onedrive\\desktop\\practice code\\bankingapplication\\bankingapplication\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F494210-2063-4FDE-AE0C-7E330238EB73}|BankingApplication\\BankingApplication.csproj|solutionrelative:bankingapplication\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F494210-2063-4FDE-AE0C-7E330238EB73}|BankingApplication\\BankingApplication.csproj|c:\\users\\walla\\onedrive\\desktop\\practice code\\bankingapplication\\bankingapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F494210-2063-4FDE-AE0C-7E330238EB73}|BankingApplication\\BankingApplication.csproj|solutionrelative:bankingapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F494210-2063-4FDE-AE0C-7E330238EB73}|BankingApplication\\BankingApplication.csproj|c:\\users\\walla\\onedrive\\desktop\\practice code\\bankingapplication\\bankingapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F494210-2063-4FDE-AE0C-7E330238EB73}|BankingApplication\\BankingApplication.csproj|solutionrelative:bankingapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F494210-2063-4FDE-AE0C-7E330238EB73}|BankingApplication\\BankingApplication.csproj|c:\\users\\walla\\onedrive\\desktop\\practice code\\bankingapplication\\bankingapplication\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F494210-2063-4FDE-AE0C-7E330238EB73}|BankingApplication\\BankingApplication.csproj|solutionrelative:bankingapplication\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F494210-2063-4FDE-AE0C-7E330238EB73}|BankingApplication\\BankingApplication.csproj|c:\\users\\walla\\onedrive\\desktop\\practice code\\bankingapplication\\bankingapplication\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F494210-2063-4FDE-AE0C-7E330238EB73}|BankingApplication\\BankingApplication.csproj|solutionrelative:bankingapplication\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F494210-2063-4FDE-AE0C-7E330238EB73}|BankingApplication\\BankingApplication.csproj|c:\\users\\walla\\onedrive\\desktop\\practice code\\bankingapplication\\bankingapplication\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F494210-2063-4FDE-AE0C-7E330238EB73}|BankingApplication\\BankingApplication.csproj|solutionrelative:bankingapplication\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F494210-2063-4FDE-AE0C-7E330238EB73}|BankingApplication\\BankingApplication.csproj|c:\\users\\walla\\onedrive\\desktop\\practice code\\bankingapplication\\bankingapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F494210-2063-4FDE-AE0C-7E330238EB73}|BankingApplication\\BankingApplication.csproj|solutionrelative:bankingapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F494210-2063-4FDE-AE0C-7E330238EB73}|BankingApplication\\BankingApplication.csproj|c:\\users\\walla\\onedrive\\desktop\\practice code\\bankingapplication\\bankingapplication\\views\\leads\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F494210-2063-4FDE-AE0C-7E330238EB73}|BankingApplication\\BankingApplication.csproj|solutionrelative:bankingapplication\\views\\leads\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F494210-2063-4FDE-AE0C-7E330238EB73}|BankingApplication\\BankingApplication.csproj|c:\\users\\walla\\onedrive\\desktop\\practice code\\bankingapplication\\bankingapplication\\views\\leads\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F494210-2063-4FDE-AE0C-7E330238EB73}|BankingApplication\\BankingApplication.csproj|solutionrelative:bankingapplication\\views\\leads\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F494210-2063-4FDE-AE0C-7E330238EB73}|BankingApplication\\BankingApplication.csproj|c:\\users\\walla\\onedrive\\desktop\\practice code\\bankingapplication\\bankingapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F494210-2063-4FDE-AE0C-7E330238EB73}|BankingApplication\\BankingApplication.csproj|solutionrelative:bankingapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F494210-2063-4FDE-AE0C-7E330238EB73}|BankingApplication\\BankingApplication.csproj|c:\\users\\walla\\onedrive\\desktop\\practice code\\bankingapplication\\bankingapplication\\controllers\\leadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F494210-2063-4FDE-AE0C-7E330238EB73}|BankingApplication\\BankingApplication.csproj|solutionrelative:bankingapplication\\controllers\\leadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F494210-2063-4FDE-AE0C-7E330238EB73}|BankingApplication\\BankingApplication.csproj|c:\\users\\walla\\onedrive\\desktop\\practice code\\bankingapplication\\bankingapplication\\migrations\\20240628134232_initialdatabasesetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F494210-2063-4FDE-AE0C-7E330238EB73}|BankingApplication\\BankingApplication.csproj|solutionrelative:bankingapplication\\migrations\\20240628134232_initialdatabasesetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F494210-2063-4FDE-AE0C-7E330238EB73}|BankingApplication\\BankingApplication.csproj|c:\\users\\walla\\onedrive\\desktop\\practice code\\bankingapplication\\bankingapplication\\migrations\\20240630203715_identitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F494210-2063-4FDE-AE0C-7E330238EB73}|BankingApplication\\BankingApplication.csproj|solutionrelative:bankingapplication\\migrations\\20240630203715_identitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F494210-2063-4FDE-AE0C-7E330238EB73}|BankingApplication\\BankingApplication.csproj|c:\\users\\walla\\onedrive\\desktop\\practice code\\bankingapplication\\bankingapplication\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F494210-2063-4FDE-AE0C-7E330238EB73}|BankingApplication\\BankingApplication.csproj|solutionrelative:bankingapplication\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F494210-2063-4FDE-AE0C-7E330238EB73}|BankingApplication\\BankingApplication.csproj|c:\\users\\walla\\onedrive\\desktop\\practice code\\bankingapplication\\bankingapplication\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F494210-2063-4FDE-AE0C-7E330238EB73}|BankingApplication\\BankingApplication.csproj|solutionrelative:bankingapplication\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F494210-2063-4FDE-AE0C-7E330238EB73}|BankingApplication\\BankingApplication.csproj|c:\\users\\walla\\onedrive\\desktop\\practice code\\bankingapplication\\bankingapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F494210-2063-4FDE-AE0C-7E330238EB73}|BankingApplication\\BankingApplication.csproj|solutionrelative:bankingapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F494210-2063-4FDE-AE0C-7E330238EB73}|BankingApplication\\BankingApplication.csproj|c:\\users\\walla\\onedrive\\desktop\\practice code\\bankingapplication\\bankingapplication\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1F494210-2063-4FDE-AE0C-7E330238EB73}|BankingApplication\\BankingApplication.csproj|solutionrelative:bankingapplication\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F494210-2063-4FDE-AE0C-7E330238EB73}|BankingApplication\\BankingApplication.csproj|c:\\users\\walla\\onedrive\\desktop\\practice code\\bankingapplication\\bankingapplication\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F494210-2063-4FDE-AE0C-7E330238EB73}|BankingApplication\\BankingApplication.csproj|solutionrelative:bankingapplication\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\BankingApplication\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "BankingApplication\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\BankingApplication\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "BankingApplication\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAAAHMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T20:29:09.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\BankingApplication\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BankingApplication\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\BankingApplication\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BankingApplication\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T20:59:25.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\BankingApplication\\Program.cs",
+              "RelativeDocumentMoniker": "BankingApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\BankingApplication\\Program.cs",
+              "RelativeToolTip": "BankingApplication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T14:15:54.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankLeadEntity.cs",
+              "DocumentMoniker": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\BankingApplication\\Models\\BankLeadEntity.cs",
+              "RelativeDocumentMoniker": "BankingApplication\\Models\\BankLeadEntity.cs",
+              "ToolTip": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\BankingApplication\\Models\\BankLeadEntity.cs",
+              "RelativeToolTip": "BankingApplication\\Models\\BankLeadEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T20:59:26.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankingApplication",
+              "DocumentMoniker": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\BankingApplication\\BankingApplication.csproj",
+              "RelativeDocumentMoniker": "BankingApplication\\BankingApplication.csproj",
+              "ToolTip": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\BankingApplication\\BankingApplication.csproj",
+              "RelativeToolTip": "BankingApplication\\BankingApplication.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-28T13:58:00.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\BankingApplication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BankingApplication\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\BankingApplication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BankingApplication\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T13:39:58.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\BankingApplication\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "BankingApplication\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\BankingApplication\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "BankingApplication\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAGUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T13:43:04.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\BankingApplication\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "BankingApplication\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\BankingApplication\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "BankingApplication\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAgwE0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T13:42:47.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\BankingApplication\\Views\\Leads\\Details.cshtml",
+              "RelativeDocumentMoniker": "BankingApplication\\Views\\Leads\\Details.cshtml",
+              "ToolTip": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\BankingApplication\\Views\\Leads\\Details.cshtml",
+              "RelativeToolTip": "BankingApplication\\Views\\Leads\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T13:42:02.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\BankingApplication\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BankingApplication\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\BankingApplication\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BankingApplication\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T14:20:23.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\BankingApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BankingApplication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\BankingApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BankingApplication\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T20:10:44.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\BankingApplication\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "BankingApplication\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\BankingApplication\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "BankingApplication\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T20:32:12.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LeadsController.cs",
+              "DocumentMoniker": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\BankingApplication\\Controllers\\LeadsController.cs",
+              "RelativeDocumentMoniker": "BankingApplication\\Controllers\\LeadsController.cs",
+              "ToolTip": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\BankingApplication\\Controllers\\LeadsController.cs",
+              "RelativeToolTip": "BankingApplication\\Controllers\\LeadsController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAAEcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T21:23:34.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\BankingApplication\\Views\\Leads\\Index.cshtml",
+              "RelativeDocumentMoniker": "BankingApplication\\Views\\Leads\\Index.cshtml",
+              "ToolTip": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\BankingApplication\\Views\\Leads\\Index.cshtml",
+              "RelativeToolTip": "BankingApplication\\Views\\Leads\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAgwDMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T21:24:21.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240628134232_InitialDatabaseSetup.cs",
+              "DocumentMoniker": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\BankingApplication\\Migrations\\20240628134232_InitialDatabaseSetup.cs",
+              "RelativeDocumentMoniker": "BankingApplication\\Migrations\\20240628134232_InitialDatabaseSetup.cs",
+              "ToolTip": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\BankingApplication\\Migrations\\20240628134232_InitialDatabaseSetup.cs",
+              "RelativeToolTip": "BankingApplication\\Migrations\\20240628134232_InitialDatabaseSetup.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T13:42:32.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240630203715_IdentityTables.cs",
+              "DocumentMoniker": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\BankingApplication\\Migrations\\20240630203715_IdentityTables.cs",
+              "RelativeDocumentMoniker": "BankingApplication\\Migrations\\20240630203715_IdentityTables.cs",
+              "ToolTip": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\BankingApplication\\Migrations\\20240630203715_IdentityTables.cs",
+              "RelativeToolTip": "BankingApplication\\Migrations\\20240630203715_IdentityTables.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAIBJwCMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T20:37:15.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\BankingApplication\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "BankingApplication\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\BankingApplication\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "BankingApplication\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T20:28:58.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\BankingApplication\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BankingApplication\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\BankingApplication\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BankingApplication\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T14:16:23.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\BankingApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "BankingApplication\\appsettings.json",
+              "ToolTip": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\BankingApplication\\appsettings.json",
+              "RelativeToolTip": "BankingApplication\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-28T13:52:29.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\BankingApplication\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "BankingApplication\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\BankingApplication\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "BankingApplication\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-30T20:27:25.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\BankingApplication\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BankingApplication\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\walla\\OneDrive\\Desktop\\practice code\\BankingApplication\\BankingApplication\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "BankingApplication\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T13:42:57.51Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

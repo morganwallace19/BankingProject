@@ -1,0 +1,2 @@
+C:\Users\walla\OneDrive\Desktop\practice code\BankingApplication\TestBank.UnitTests\obj\Debug\BankingApplication.UnitTests.csproj.AssemblyReference.cache
+C:\Users\walla\OneDrive\Desktop\practice code\BankingApplication\TestBank.UnitTests\obj\Debug\BankingApplication.UnitTests.csproj.CoreCompileInputs.cache
